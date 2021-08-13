@@ -7,7 +7,7 @@ run the model from darknet folder'
 
 # Direction to run OD.py
 
-clone this repository==> git clon "name of the repo"
+clone this repository==> git clone "name of the repo"
 
 # Download the pretrained weights
 clone repository 
